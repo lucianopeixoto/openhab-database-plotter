@@ -1,0 +1,10 @@
+C:\Users\lucia\source\repos\openhab-database-plotter\openhab-database-plotter\bin\Debug\openhab-database-plotter.exe.config
+C:\Users\lucia\source\repos\openhab-database-plotter\openhab-database-plotter\bin\Debug\openhab-database-plotter.exe
+C:\Users\lucia\source\repos\openhab-database-plotter\openhab-database-plotter\bin\Debug\openhab-database-plotter.pdb
+C:\Users\lucia\source\repos\openhab-database-plotter\openhab-database-plotter\obj\Debug\openhab-database-plotter.csprojResolveAssemblyReference.cache
+C:\Users\lucia\source\repos\openhab-database-plotter\openhab-database-plotter\obj\Debug\openhab_database_plotter.Form1.resources
+C:\Users\lucia\source\repos\openhab-database-plotter\openhab-database-plotter\obj\Debug\openhab_database_plotter.Properties.Resources.resources
+C:\Users\lucia\source\repos\openhab-database-plotter\openhab-database-plotter\obj\Debug\openhab-database-plotter.csproj.GenerateResource.Cache
+C:\Users\lucia\source\repos\openhab-database-plotter\openhab-database-plotter\obj\Debug\openhab-database-plotter.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\repos\openhab-database-plotter\openhab-database-plotter\obj\Debug\openhab-database-plotter.exe
+C:\Users\lucia\source\repos\openhab-database-plotter\openhab-database-plotter\obj\Debug\openhab-database-plotter.pdb
